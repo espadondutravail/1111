@@ -3727,17 +3727,7 @@ function PlasmicNewPage__RenderFunc(props) {
                 </Button>
               </div>
             </Stack__>
-            <div className={classNames(projectcss.all, sty.freeBox___0B93)}>
-              <div
-                className={classNames(
-                  projectcss.all,
-                  projectcss.__wab_text,
-                  sty.text___2FaLv
-                )}
-              >
-                {"Copyrights \u00a9 2022 All Rights Reserved by PlasmicApp"}
-              </div>
-            </div>
+            <div className={classNames(projectcss.all, sty.freeBox___0B93)} />
           </div>
         </div>
       </div>
